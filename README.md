@@ -5,7 +5,7 @@ Our work includes an implementation of three compression methods: PPM, Huffman c
 
 How to use:
 
-PPM: For compression please go to the file "pmm_compress.py", For decompression please go to the file "pmm_decompress.py". All running
+PPM: For compression please go to the file "ppm_compress.py", For decompression please go to the file "ppm_decompress.py". All running
 instructions can be found in there.
 
 Huffman coding: Both compression and decompression running instructions can be found in the file "Huffman.py".
