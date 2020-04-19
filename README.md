@@ -10,7 +10,7 @@ instructions can be found in there.
 
 Huffman coding: Both compression and decompression running instructions can be found in the file "Huffman.py".
 
-Zip: Both compression and decompression running instruction can be found in the file "zip_compression.py".
+Zip: Both compression and decompression running instructions can be found in the file "zip_compression.py".
 
 The rest of the files are being used in the main files that were mentioned above. All files are well documented.
 
